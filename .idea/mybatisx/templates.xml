@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TemplatesSettings">
+    <option name="templateConfigs">
+      <TemplateContext>
+        <option name="generateConfig">
+          <GenerateConfig>
+            <option name="annotationType" value="MYBATIS_PLUS3" />
+            <option name="basePackage" value="generator" />
+            <option name="basePath" value="src/main/java/com/icarlusjie/lease/web/admin" />
+            <option name="classNameStrategy" value="camel" />
+            <option name="encoding" value="UTF-8" />
+            <option name="extraClassSuffix" value="" />
+            <option name="ignoreFieldPrefix" value="" />
+            <option name="ignoreFieldSuffix" value="" />
+            <option name="ignoreTablePrefix" value="" />
+            <option name="ignoreTableSuffix" value="" />
+            <option name="moduleName" value="web-admin" />
+            <option name="modulePath" value="$PROJECT_DIR$" />
+            <option name="moduleUIInfoList">
+              <list>
+                <ModuleInfoGo>
+                  <option name="basePath" value="src/main/java/com/icarlusjie/lease/web/admin" />
+                  <option name="configFileName" value="domain.ftl" />
+                  <option name="configName" value="domain" />
+                  <option name="encoding" value="UTF-8" />
+                  <option name="fileName" value="${domain.fileName}" />
+                  <option name="fileNameWithSuffix" value="${domain.fileName}.java" />
+                  <option name="modulePath" value="$PROJECT_DIR$" />
+                  <option name="packageName" value="generator.mapper" />
+                </ModuleInfoGo>
+              </list>
+            </option>
+            <option name="needToStringHashcodeEquals" value="true" />
+            <option name="needsComment" value="true" />
+            <option name="needsModel" value="true" />
+            <option name="relativePackage" value="mapper" />
+            <option name="superClass" value="" />
+            <option name="tableUIInfoList">
+              <list>
+                <TableUIInfo>
+                  <option name="className" value="ApartmentFacility" />
+                  <option name="tableName" value="apartment_facility" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="ApartmentFeeValue" />
+                  <option name="tableName" value="apartment_fee_value" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="ApartmentInfo" />
+                  <option name="tableName" value="apartment_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="ApartmentLabel" />
+                  <option name="tableName" value="apartment_label" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="AttrKey" />
+                  <option name="tableName" value="attr_key" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="AttrValue" />
+                  <option name="tableName" value="attr_value" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="BrowsingHistory" />
+                  <option name="tableName" value="browsing_history" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="CityInfo" />
+                  <option name="tableName" value="city_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="DistrictInfo" />
+                  <option name="tableName" value="district_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="FacilityInfo" />
+                  <option name="tableName" value="facility_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="FeeKey" />
+                  <option name="tableName" value="fee_key" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="FeeValue" />
+                  <option name="tableName" value="fee_value" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="GraphInfo" />
+                  <option name="tableName" value="graph_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="LabelInfo" />
+                  <option name="tableName" value="label_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="LeaseAgreement" />
+                  <option name="tableName" value="lease_agreement" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="LeaseTerm" />
+                  <option name="tableName" value="lease_term" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="PaymentType" />
+                  <option name="tableName" value="payment_type" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="ProvinceInfo" />
+                  <option name="tableName" value="province_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomAttrValue" />
+                  <option name="tableName" value="room_attr_value" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomFacility" />
+                  <option name="tableName" value="room_facility" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomInfo" />
+                  <option name="tableName" value="room_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomLabel" />
+                  <option name="tableName" value="room_label" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomLeaseTerm" />
+                  <option name="tableName" value="room_lease_term" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="RoomPaymentType" />
+                  <option name="tableName" value="room_payment_type" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="SystemPost" />
+                  <option name="tableName" value="system_post" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="SystemUser" />
+                  <option name="tableName" value="system_user" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="UserInfo" />
+                  <option name="tableName" value="user_info" />
+                </TableUIInfo>
+                <TableUIInfo>
+                  <option name="className" value="ViewAppointment" />
+                  <option name="tableName" value="view_appointment" />
+                </TableUIInfo>
+              </list>
+            </option>
+            <option name="templatesName" value="custom-model-swagger" />
+          </GenerateConfig>
+        </option>
+        <option name="moduleName" value="web-admin" />
+        <option name="projectPath" value="$PROJECT_DIR$" />
+        <option name="templateName" value="custom-model-swagger" />
+      </TemplateContext>
+    </option>
+  </component>
+</project>
